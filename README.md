@@ -61,4 +61,4 @@ Free software is a matter of liberty, not price.<br>To understand the concept, y
   
   ### Support Me
   
-  <a href="[https://www.buymeacoffee.com/btejas007](https://www.buymeacoffee.com/prathamc92n)"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+  <a href="https://www.buymeacoffee.com/prathamc92n"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
