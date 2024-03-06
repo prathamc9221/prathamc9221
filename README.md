@@ -8,10 +8,10 @@
 <div align="left">
   
 - 🌍  I'm based in Binghamton, New York
-- 🚀  Currently working on Ansible and cyber security projects
-- 🌱 Learning again Java, C, Terraform 
+- 🚀  Currently working on SDLC and ML projects
+- 🌱 Learning new technologies
 - 👯 Looking to collaborate on Documentation projects, Technical writing, open source projects
-- ⚡ I love plucking Guitar strings
+- ⚡ I love to hit six with Cricket bat.
 - 📫 send your letters at **prathamc9221@gmail.com**
 
 </div>
