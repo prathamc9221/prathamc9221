@@ -17,7 +17,7 @@
 </div>
 
 <hr>
-Free software is a matter of liberty, not price.<br>To understand the concept, you should think of 'free' as in 'free speech, not as in 'free beer'. <br> - Richard Stallman
+"Our success has really been based on partnerships from the very beginning." <br> - Bill Gates
 <hr>
   
 ### Badges
