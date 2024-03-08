@@ -9,10 +9,10 @@
   
 - 🌍  I'm based in Binghamton, New York
 - 🚀  Currently working on SDLC and ML projects
-- 🌱 Learning new technologies
-- 👯 Looking to collaborate on Documentation projects, Technical writing, open source projects
-- ⚡ I love to hit six with Cricket bat.
-- 📫 send your letters at **prathamc9221@gmail.com**
+- 🌱  Learning new technologies
+- 👯  Looking to collaborate on Documentation projects, Technical writing, open source projects
+- ⚡   I love to hit six with the cricket bat.
+- 📫  Send your letters at **prathamc9221@gmail.com**
 
 </div>
 
