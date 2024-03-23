@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Friend 👋 My Name is Prathamesh </h1>
+<h1 align="center"> Hey Friend 👋 My Name is Prathamesh Chaudhari</h1>
 
 
 <h3 align="center"> Former Software Engineer at Amdocs & Software Developer at Ekatvam Innovations
