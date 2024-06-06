@@ -1,7 +1,7 @@
 <h1 align="center"> Hey Friend 👋 My Name is Prathamesh Chaudhari</h1>
 
 
-<h3 align="center"> Former Software Engineer at Amdocs & Software Developer at Ekatvam Innovations
+<h3 align="center"> Intern at Gisecke and Devrient, Former Software Engineer at Amdocs & Software Developer at Ekatvam Innovations
   
 <hr>
 
